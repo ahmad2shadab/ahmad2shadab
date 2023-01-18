@@ -4,8 +4,6 @@
 
 I'm a full stack learner.
 
-[ahmad2shadab](https://github.com/ahmad2shadab)
-
 • 👨‍💻 Currently civil engineering undergrad.
 
 • 🌱 Learning more on Web-Development
