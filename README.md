@@ -4,11 +4,11 @@
 
 **I'm a Full Stack learner.**
 
-• 👨‍💻 Currently civil engineering undergrad.
+• 👨‍💻 Currently **Civil Engineering** undergrad.
 
-• 🌱 Learning more on Web-Development
+• 🌱 Learning more on **Web-Development**
 
-• 🌐 Using MERN as the learning stage.
+• 🌐 Using **MERN** as the learning stage.
 
 • 👥 Fascinated about communities
 
