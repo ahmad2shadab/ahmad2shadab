@@ -22,7 +22,7 @@
 
 💬 Ask me about my Journey
 
-📫 How to reach me :-**[ahmad2shadab](https://github.com/ahmad2shadab)**
+📫 How to reach me :- **[ahmad2shadab](https://github.com/ahmad2shadab)**
 
 ## Tech Stack - 'learning on the go'
 
