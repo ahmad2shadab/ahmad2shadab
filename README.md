@@ -16,8 +16,6 @@
 
 > ### Other Common Github Profile Sections
 
-👩‍💻 I'm currently working on Node JS
-
 🧠 I'm currently learning TS
 
 📫 How to reach me :- **[ahmad2shadab](https://github.com/ahmad2shadab)**
