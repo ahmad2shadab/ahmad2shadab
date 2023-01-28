@@ -1,8 +1,8 @@
-# Hey 👋, it's Shadab Ahmad, a learning lad and a tech evangelist
+> # Hey 👋, it's Shadab Ahmad, a learning lad and a tech evangelist
 
 ## 🚀 About Me
 
-**I'm a Full Stack learner.**
+#### I'm a **Full Stack** learner.
 
 • 👨‍💻 Currently **Civil Engineering** undergrad.
 
@@ -14,7 +14,7 @@
 
 • 🤝 Looking to collaborate with developers
 
-## Other Common Github Profile Sections
+> ### Other Common Github Profile Sections
 
 👩‍💻 I'm currently working on Node JS
 
@@ -24,7 +24,7 @@
 
 📫 How to reach me :- **[ahmad2shadab](https://github.com/ahmad2shadab)**
 
-## Tech Stack - 'learning on the go'
+> ### Tech Stack - 'learning on the go'
 
 **Client:** React, TailwindCSS
 
@@ -32,10 +32,10 @@
 
 **OS:** Linux
 
-## 🛠 Skills
+> ### 🛠 Skills
 
 Javascript, HTML, Node JS, CSS, TS
 
-## Tools Using
+> ### Tools Using
 
 VS Code, Linux, Git
