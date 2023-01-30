@@ -1,8 +1,12 @@
-# Hey 👋, it's Shadab Ahmad, a learning lad and a tech evangelist
+# 👋 Hey there
 
->## 🚀 About Me
+<div align="justify">
+    My name is Shadab and I'm a Full Stack Learner who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+</div>
 
-#### I'm a **Full Stack** learner.
+<br>
+
+>### 🚀 About Me
 
 • 👨‍💻 Currently **Civil Engineering** undergrad.
 
