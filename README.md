@@ -1,6 +1,6 @@
-> # Hey 👋, it's Shadab Ahmad, a learning lad and a tech evangelist
+# Hey 👋, it's Shadab Ahmad, a learning lad and a tech evangelist
 
-## 🚀 About Me
+>## 🚀 About Me
 
 #### I'm a **Full Stack** learner.
 
@@ -14,24 +14,126 @@
 
 • 🤝 Looking to collaborate with developers
 
-> ### Other Common Github Profile Sections
+# 🔧 Technologies & Tools 
 
-🧠 I'm currently learning TS
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="48"
+        height="48"
+        alt="VSCode"
+      />
+      <br /><strong>VSCode</strong>
+    </td>
+    </tr>
+</table>
 
-📫 How to reach me :- **[ahmad2shadab](https://github.com/ahmad2shadab)**
+>### 'learning on the go'
 
-> ### Tech Stack - 'learning on the go'
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        width="48"
+        height="48"
+        alt="Linux"
+      />
+      <br /><strong>Linux</strong>
+    </td>    
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+      />
+      <br /><strong>Redux</strong>
+    </td>
+  </tr>
+</table>
 
-**Client:** React, TailwindCSS
+## 📈 Stats
 
-**Server:** Node JS
-
-**OS:** Linux
-
-> ### 🛠 Skills
-
-Javascript, HTML, Node JS, CSS, TS
-
-> ### Tools Using
-
-VS Code, Linux, Git
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2shadab&&theme=react&&hide_border=true"
+/>
