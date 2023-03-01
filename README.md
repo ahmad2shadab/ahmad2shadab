@@ -67,10 +67,19 @@
       />
       <br /><strong>VSCode</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
     </tr>
 </table>
 
->### 'learning on the go'
+>### Learning on the go
 
 <table>
   <tr>
@@ -83,14 +92,14 @@
       />
       <br /><strong>React</strong>
     </td>
-     <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Node.js"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Node.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -100,7 +109,7 @@
         alt="Linux"
       />
       <br /><strong>Linux</strong>
-    </td>    
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
@@ -110,16 +119,23 @@
       />
       <br /><strong>Tailwind CSS</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="MySQL"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>MySQL</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
