@@ -155,6 +155,15 @@
       />
       <br /><strong>Redux</strong>
     </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+      />
+      <br /><strong>Angular</strong>
+    </td>
   </tr>
 </table>
 
