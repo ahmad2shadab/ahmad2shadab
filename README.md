@@ -6,9 +6,7 @@
 
 <br>
 
->### 🚀 About Me
-
-• 👨‍💻 Currently **Civil Engineering** undergrad.
+> ### 🚀 About Me
 
 • 🌱 Learning more on **Web-Development**
 
@@ -18,7 +16,9 @@
 
 • 🤝 Looking to collaborate with developers
 
-# 🔧 Technologies & Tools 
+• 👨‍💻 Education - **B.Tech** (Civil).
+
+# 🔧 Technologies & Tools
 
 <table>
   <tr>
@@ -79,7 +79,7 @@
     </tr>
 </table>
 
->### Learning on the go
+> ### Learning on the go
 
 <table>
   <tr>
