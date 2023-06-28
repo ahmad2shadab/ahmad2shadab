@@ -16,7 +16,7 @@
 
 • 🤝 Looking to collaborate with developers
 
-• 👨‍💻 Education - **B.Tech** (Civil).
+• 👨‍💻 Education - **B.Tech** Civil.
 
 # 🔧 Technologies & Tools
 
