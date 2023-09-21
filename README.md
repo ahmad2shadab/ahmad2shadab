@@ -168,6 +168,6 @@
 ## 📈 Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad2shadab&&theme=tokyonight&&hide_border=true"
+ <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true"
 />
