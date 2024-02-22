@@ -74,14 +74,7 @@
       />
       <br /><strong>Git</strong>
     </td>
-    </tr>
-</table>
-
-> ### Learning on the go
-
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
+       <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -90,6 +83,13 @@
       />
       <br /><strong>React</strong>
     </td>
+    </tr>
+</table>
+
+> ### Learning on the go
+
+<table>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -108,24 +108,6 @@
       />
       <br /><strong>Linux</strong>
     </td>
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Tailwind CSS</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
-    </td> -->
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
@@ -162,6 +144,24 @@
       />
       <br /><strong>Angular</strong>
     </td>
+      <!--     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="Tailwind CSS"
+      />
+      <br /><strong>Tailwind CSS</strong>
+    </td> -->
+<!--     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>MySQL</strong>
+    </td> -->
   </tr>
 </table>
 
