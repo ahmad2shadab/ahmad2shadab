@@ -108,7 +108,7 @@
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
@@ -116,8 +116,8 @@
         alt="Tailwind CSS"
       />
       <br /><strong>Tailwind CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
         width="48"
@@ -125,7 +125,7 @@
         alt="MySQL"
       />
       <br /><strong>MySQL</strong>
-    </td>
+    </td> -->
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
