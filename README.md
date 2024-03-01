@@ -108,7 +108,7 @@
       />
       <br /><strong>Linux</strong>
     </td>
-     <td align="center" height="108" width="108">
+<!--      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
@@ -116,8 +116,8 @@
         alt="PostgreSQL"
       />
       <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
         width="48"
@@ -134,8 +134,8 @@
         alt="Redux"
       />
       <br /><strong>Redux</strong>
-    </td>
-      <td align="center" height="108" width="108">
+    </td> -->
+<!--       <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
         width="48"
@@ -143,7 +143,7 @@
         alt="Redux"
       />
       <br /><strong>Angular</strong>
-    </td>
+    </td> -->
       <!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
