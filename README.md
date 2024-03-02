@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    Full Stack Learner who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    Full Stack Learner who loves to work with JavaScript technologies. Right now my mind is focused on learning Backend Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <br>
