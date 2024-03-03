@@ -17,17 +17,16 @@ I'm a Full Stack Learner with a deep passion for JavaScript technologies, curren
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |  |  |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |  |  |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |  |  |
-
+---
 ## 📈 Stats
+Check out my GitHub stats and coding activity:
+- ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true)
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
+## 📊 Visitor Count
+![Visitor Count](https://visitcount.itsvg.in/api?id=ahmad2shadab&icon=6&color=1)
 
-![Visitors](https://visitcount.itsvg.in/api?id=ahmad2shadab&icon=6&color=1)
-
-
+Feel free to reach out to me via email at ahmad8shadab@gmail.com for any inquiries or collaboration opportunities. Let's build something awesome together!
