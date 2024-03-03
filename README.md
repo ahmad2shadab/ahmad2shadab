@@ -1,177 +1,33 @@
 # 👋 Hey there
 
-<div align="justify">
-    Full Stack Learner who loves to work with JavaScript technologies. Right now my mind is focused on learning Backend Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
-</div>
+I'm a Full Stack Learner with a deep passion for JavaScript technologies, currently diving deep into Backend Web Development. My curiosity drives me to explore new technologies to solve real-world problems. Engaging with communities and collaborating with other developers energizes me, and I'm always on the lookout for opportunities to learn and grow together.
 
-<br>
+## 🚀 About Me
+- 🌱 I'm currently focusing on **Web Development**, enriching my skills day by day.
+- 🌐 I use the **MERN** stack as my primary toolkit for learning and projects.
+- 👥 I'm fascinated by tech communities and the collective knowledge they offer.
+- 🤝 I'm eager to collaborate with fellow developers on exciting projects.
 
-> ### 🚀 About Me
+## 🔧 Technologies & Tools
 
-• 🌱 Learning more on **Web-Development**
-
-• 🌐 Using **MERN** as the learning stage.
-
-• 👥 Fascinated about communities
-
-• 🤝 Looking to collaborate with developers
-
-# 🔧 Technologies & Tools
-
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        width="48"
-        height="48"
-        alt="VSCode"
-      />
-      <br /><strong>VSCode</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    </tr>
-</table>
-
-> ### Learning on the go
-
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-      <br /><strong>Linux</strong>
-    </td>
-<!--      <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
-        alt="Redux"
-      />
-      <br /><strong>Redux</strong>
-    </td> -->
-<!--       <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-        width="48"
-        height="48"
-        alt="Redux"
-      />
-      <br /><strong>Angular</strong>
-    </td> -->
-      <!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="Tailwind CSS"
-      />
-      <br /><strong>Tailwind CSS</strong>
-    </td> -->
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
-      />
-      <br /><strong>MySQL</strong>
-    </td> -->
-  </tr>
-</table>
+| Frontend      | Backend & Tools | Currently Learning |
+|---------------|-----------------|--------------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |  |  |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |  |  |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |  |  |
 
 ## 📈 Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true"/>
- <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmad2shadab&icon=6&color=1)](https://visitcount.itsvg.in)
+
+![Visitors](https://visitcount.itsvg.in/api?id=ahmad2shadab&icon=6&color=1)
+
+
