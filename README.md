@@ -1,10 +1,10 @@
 # 👋 Hey there
 
-I'm a Full Stack Learner with a deep passion for JavaScript technologies, currently diving deep into Backend Web Development. My curiosity drives me to explore new technologies to solve real-world problems. Engaging with communities and collaborating with other developers energizes me, and I'm always on the lookout for opportunities to learn and grow together.
+I'm a `Full Stack` Learner with a deep passion for JavaScript technologies, currently diving deep into `Backend` Web Development. My curiosity drives me to explore new technologies to solve real-world problems. Engaging with communities and collaborating with other developers energizes me, and I'm always on the lookout for opportunities to learn and grow together.
 
 ## 🚀 About Me
-- 🌱 I'm currently focusing on **Web Development**, enriching my skills day by day.
-- 🌐 I use the **MERN** stack as my primary toolkit for learning and projects.
+- 🌱 I'm currently focusing on `Web Development`, enriching my skills day by day.
+- 🌐 I use the `MERN` stack as my primary toolkit for learning and projects.
 - 👥 I'm fascinated by tech communities and the collective knowledge they offer.
 - 🤝 I'm eager to collaborate with fellow developers on exciting projects.
 
