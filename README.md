@@ -20,9 +20,9 @@ I'm a `Full Stack` Learner with a deep passion for JavaScript technologies, curr
 
 ## 📈 Stats
 Check out my GitHub stats and coding activity:
+- ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true)
 - ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true)
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true)
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true)
 
 ## 📊 Visitor Count
 ![Visitor Count](https://visitcount.itsvg.in/api?id=ahmad2shadab&icon=6&color=1)
