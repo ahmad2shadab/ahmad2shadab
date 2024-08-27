@@ -2,11 +2,13 @@
 
 I'm a `Full Stack` Learner with a deep passion for JavaScript technologies, currently diving deep into `Backend` Web Development. My curiosity drives me to explore new technologies to solve real-world problems. Engaging with communities and collaborating with other developers energizes me, and I'm always on the lookout for opportunities to learn and grow together.
 
+With a background in `Civil Engineering` and a passion for web development, I began learning web technologies during my second year of college. Despite not switching to Computer Science, I successfully self-taught and managed both fields simultaneously. Over the past 3 years, I’ve gained significant experience working with the `MERN` stack, building robust and responsive web applications. Moving forward, I aim to leverage my skills to contribute to innovative web development projects and further enhance my expertise in `Full Stack` development.
+
 ## 🚀 About Me
 - 🌱 I'm currently focusing on `Web Development`, enriching my skills day by day.
-- 🌐 I use the `MERN` stack as my primary toolkit for learning and projects.
-- 👥 I'm fascinated by tech communities and the collective knowledge they offer.
-- 🤝 I'm eager to collaborate with fellow developers on exciting projects.
+- 🌐 Using the `MERN` stack as my primary toolkit for learning and projects.
+- 👥 Fascinated by tech communities and the collective knowledge they offer.
+- 🤝 Always excited to dive into new challenges and collaborate with fellow developers, ready to learn and grow with every project!
 
 ## 🔧 Technologies & Tools
 
