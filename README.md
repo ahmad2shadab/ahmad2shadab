@@ -1,14 +1,12 @@
 # 👋 Hey there
 
-I'm a `Full Stack` Learner with a deep passion for JavaScript technologies, currently diving deep into `Backend` Web Development. My curiosity drives me to explore new technologies to solve real-world problems. Engaging with communities and collaborating with other developers energizes me, and I'm always on the lookout for opportunities to learn and grow together.
-
-With a background in `Civil Engineering` and a passion for `Web Development`, I began learning web technologies during my second year of college. Despite not switching to Computer Science, I successfully self-taught and managed both fields simultaneously. Over the past years, I’ve gained significant experience working with the `MERN` stack, building robust and responsive web applications. Moving forward, I aim to leverage my skills to contribute to innovative web development projects and further enhance my expertise in `Full Stack` development.
+Full Stack Web Developer focused on `JavaScript` technologies with hands-on experience in the `MERN` stack. Skilled in building scalable web applications, developing REST APIs, and designing responsive, accessible user interfaces. I’ve spent the past two years deepening my backend knowledge, exploring `DevOps`, and improving `system design` skills. I thrive in collaborative, product-driven teams and am always eager to contribute, learn, and deliver impact.
 
 ## 🚀 About Me
-- 🌱 I'm currently focusing on `Web Development`, enriching my skills day by day.
-- 🌐 Using the `MERN` stack as my primary toolkit for learning and projects.
+- 🌱 Passionate about crafting impactful web solutions with clean architecture, scalable code, and user-focused design.
+- 🌐 Continuously learning DevOps, system design, and software architecture to level up engineering practices.
 - 👥 Fascinated by tech communities and the collective knowledge they offer.
-- 🤝 Always excited to dive into new challenges and collaborate with fellow developers, ready to learn and grow with every project!
+- 🤝 Open to opportunities that challenge my skills and drive real-world impact through technology.
 
 ## 🔧 Technologies & Tools
 
@@ -42,16 +40,6 @@ Check out my GitHub stats and coding activity:
 <!-- Visitor Count (Komarev with modern look) -->
 <a href="https://github.com/ahmad2shadab" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=ahmad2shadab&label=Profile+Visits&color=0e75b6&style=flat-square" alt="Visitor Count"/>
-</a>
-
-<!-- GitHub Followers -->
-<a href="https://github.com/ahmad2shadab?tab=followers" target="_blank">
-  <img src="https://img.shields.io/github/followers/ahmad2shadab?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers"/>
-</a>
-
-<!-- GitHub Stars -->
-<a href="https://github.com/ahmad2shadab" target="_blank">
-  <img src="https://img.shields.io/github/stars/ahmad2shadab?label=Stars&style=flat-square&color=0e75b6" alt="GitHub Stars"/>
 </a>
 
 ---
