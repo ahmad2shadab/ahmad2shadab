@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-Full Stack Web Developer focused on `JavaScript` technologies with hands-on experience in the `MERN` stack. Skilled in building scalable web applications, developing REST APIs, and designing responsive, accessible user interfaces. I’ve spent the past two years deepening my backend knowledge, exploring `DevOps`, and improving `system design` skills. I thrive in collaborative, product-driven teams and am always eager to contribute, learn, and deliver impact.
+I'm Full Stack Web Developer focused on `JavaScript` technologies with hands-on experience in the `MERN` stack. Skilled in building scalable web applications, developing REST APIs, and designing responsive, accessible user interfaces. I’ve spent the past two years deepening my backend knowledge, exploring `DevOps`, and improving `system design` skills. I thrive in collaborative, product-driven teams and am always eager to contribute, learn, and deliver impact.
 
 ## 🚀 About Me
 - 🌱 Passionate about crafting impactful web solutions with clean architecture, scalable code, and user-focused design.
