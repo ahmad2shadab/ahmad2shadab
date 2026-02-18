@@ -43,4 +43,4 @@ Check out my GitHub stats and coding activity:
 </a>
 
 ---
-Feel free to reach out to me via email at ahmad8shadab@gmail.com for any inquiries or collaboration opportunities. Let's build something awesome together!
+Feel free to reach out to me via email at ahmad8shadab@gmail.com and let's build something awesome together!
