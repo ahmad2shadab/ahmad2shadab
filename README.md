@@ -6,7 +6,7 @@ I’m Shadab, a Full Stack Web Developer focused on the JavaScript ecosystem wit
 - Building scalable, high-performance web applications with a focus on clean architecture and seamless user experiences.
 - Expanding my expertise across the DevOps lifecycle, cloud infrastructure (AWS), and distributed system design to build highly resilient products.
 - Thriving in collaborative environments and actively engaging with tech communities to share knowledge and build better software.
-- Driven by complex engineering challenges—always open to opportunities that deliver real-world business value through technology.
+- Driven by complex engineering challenges-always open to opportunities that deliver real-world business value through technology.
 
 ##  Technologies & Tools
 
