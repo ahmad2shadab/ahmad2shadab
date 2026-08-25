@@ -33,9 +33,29 @@ I’m Shadab, a Full Stack Web Developer focused on the JavaScript ecosystem wit
 
 ##  Stats
 Check out my GitHub stats and coding activity:
-- ![GitHub Streak](https://streak-stats.demolab.com/?user=ahmad2shadab&theme=tokyonight&hide_border=true)
-- ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad2shadab&show_icons=true&theme=tokyonight&hide_border=true)
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=ahmad2shadab&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=ahmad2shadab&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
+    width="49%"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ahmad2shadab&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ##  Visitor Count
 <!-- Visitor Count (Komarev with modern look) -->
