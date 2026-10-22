@@ -38,43 +38,43 @@ A full-stack engineering foundation lets me work on both sides of the handoff be
 
 #### Cloud &amp; Infrastructure as Code
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible&perline=10" alt="Cloud &amp; Infrastructure as Code" />
+<img src="https://skillicons.dev/icons?i=aws" height="28" align="absmiddle" alt="AWS" />&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=terraform" height="28" align="absmiddle" alt="Terraform" />&nbsp;Terraform&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ansible" height="28" align="absmiddle" alt="Ansible" />&nbsp;Ansible
 
 <sub>AWS domains: Compute, Containers, Storage, Networking &amp; Content Delivery, Application Integration, Serverless, Security, Identity &amp; Compliance, Management &amp; Governance<br />AWS CDK (TypeScript), AWS CloudFormation, Vagrant</sub>
 
 #### Containers &amp; Orchestration
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=10" alt="Containers &amp; Orchestration" />
+<img src="https://skillicons.dev/icons?i=docker" height="28" align="absmiddle" alt="Docker" />&nbsp;Docker&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=kubernetes" height="28" align="absmiddle" alt="Kubernetes" />&nbsp;Kubernetes
 
 <sub>Docker Compose, Helm, Argo CD</sub>
 
 #### CI/CD &amp; Release Engineering
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,maven,git,github&perline=10" alt="CI/CD &amp; Release Engineering" />
+<img src="https://skillicons.dev/icons?i=jenkins" height="28" align="absmiddle" alt="Jenkins" />&nbsp;Jenkins&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions" height="28" align="absmiddle" alt="GitHub Actions" />&nbsp;GitHub Actions&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=maven" height="28" align="absmiddle" alt="Maven" />&nbsp;Maven&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git" height="28" align="absmiddle" alt="Git" />&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github" height="28" align="absmiddle" alt="GitHub" />&nbsp;GitHub
 
 <sub>SonarQube</sub>
 
 #### Observability &amp; Security
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=10" alt="Observability &amp; Security" />
+<img src="https://skillicons.dev/icons?i=prometheus" height="28" align="absmiddle" alt="Prometheus" />&nbsp;Prometheus&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=grafana" height="28" align="absmiddle" alt="Grafana" />&nbsp;Grafana
 
 <sub>Amazon CloudWatch, Amazon Inspector, AWS Security Hub, Amazon GuardDuty, AWS IAM, OpenTelemetry</sub>
 
 #### Messaging, Streaming &amp; Data
 
-<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb&perline=10" alt="Messaging, Streaming &amp; Data" />
+<img src="https://skillicons.dev/icons?i=kafka" height="28" align="absmiddle" alt="Apache Kafka" />&nbsp;Apache Kafka&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redis" height="28" align="absmiddle" alt="Redis" />&nbsp;Redis&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres" height="28" align="absmiddle" alt="PostgreSQL" />&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb" height="28" align="absmiddle" alt="MongoDB" />&nbsp;MongoDB
 
 <sub>Amazon SQS</sub>
 
 #### Systems &amp; Scripting
 
-<img src="https://skillicons.dev/icons?i=linux,bash,py,nginx&perline=10" alt="Systems &amp; Scripting" />
+<img src="https://skillicons.dev/icons?i=linux" height="28" align="absmiddle" alt="Linux" />&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bash" height="28" align="absmiddle" alt="Bash" />&nbsp;Bash&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py" height="28" align="absmiddle" alt="Python" />&nbsp;Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nginx" height="28" align="absmiddle" alt="NGINX" />&nbsp;NGINX
 
 <sub>DNS &amp; TCP/IP</sub>
 
 #### Application Development
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,threejs&perline=10" alt="Application Development" />
+<img src="https://skillicons.dev/icons?i=ts" height="28" align="absmiddle" alt="TypeScript" />&nbsp;TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js" height="28" align="absmiddle" alt="JavaScript" />&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs" height="28" align="absmiddle" alt="Node.js" />&nbsp;Node.js&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express" height="28" align="absmiddle" alt="Express" />&nbsp;Express&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" height="28" align="absmiddle" alt="React" />&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" height="28" align="absmiddle" alt="Next.js" />&nbsp;Next.js&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=threejs" height="28" align="absmiddle" alt="Three.js" />&nbsp;Three.js
 
 <sub>Socket.IO, REST APIs, GSAP</sub>
 
