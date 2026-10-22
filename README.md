@@ -1,67 +1,112 @@
-# 👋 Hey there!
+<h1 align="center">Shadab Ahmad</h1>
 
-I’m Shadab, a Full Stack Web Developer focused on the JavaScript ecosystem with a strong foundation in cloud infrastructure. Skilled in building scalable web applications, developing secure REST APIs, and taking ownership of the end-to-end deployment lifecycle. I’ve spent the past two years deepening my backend architecture knowledge and bridging the gap into DevOps, utilizing AWS, Docker, and CI/CD pipelines to deliver highly available systems. I thrive in collaborative, product-driven teams and am always eager to architect solutions, automate processes, and deliver tangible impact.
+<p align="center">
+  <b>Cloud &amp; DevOps Engineer</b><br />
+  AWS Infrastructure &nbsp;|&nbsp; CI/CD Automation &nbsp;|&nbsp; Platform Reliability &nbsp;|&nbsp; Cloud-Native Architecture
+</p>
 
-##  About Me
-- Building scalable, high-performance web applications with a focus on clean architecture and seamless user experiences.
-- Expanding my expertise across the DevOps lifecycle, cloud infrastructure (AWS), and distributed system design to build highly resilient products.
-- Thriving in collaborative environments and actively engaging with tech communities to share knowledge and build better software.
-- Driven by complex engineering challenges-always open to opportunities that deliver real-world business value through technology.
-
-##  Technologies & Tools
-
-| **Frontend** | **Backend, Cloud & Tools** | **Currently Learning** |
-|-------------|-----------------------------|-------------------------|
-| [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs) [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/docs) | [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs) [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/) | [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/pages/learn) [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/) [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/) |
-| [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) | [![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) | |
-| [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) | [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/) [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/) | |
-| [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/learn) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/) | [![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://shopify.dev/docs) [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/en/docs/) | |
+<p align="center">
+  <a href="https://linkedin.com/in/ahmad2shadab"><img src="https://img.shields.io/badge/LinkedIn-ahmad2shadab-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:ahmad8shadab@gmail.com"><img src="https://img.shields.io/badge/Email-ahmad8shadab%40gmail.com-1F2937?style=flat-square" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C_India-1F2937?style=flat-square" alt="Location" />
+</p>
 
 ---
 
-##  Motion & 3D
+## Profile
 
-| [![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/docs/) [![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/docs/) |
+I design, build, deploy and operate cloud-native systems end to end. On AWS, I own the full delivery lifecycle for enterprise workloads: architecture, application development, infrastructure as code, CI/CD, containerized deployment, observability and security hardening.
+
+A full-stack engineering foundation lets me work on both sides of the handoff between development and operations, which keeps feedback loops short and systems maintainable long after release.
 
 ---
 
-## ⚙️ Cloud, CI/CD & DevOps
+## Delivery Lifecycle
 
-| [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/) [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/docs) |
-|---|
+| Stage | Focus |
+|:--|:--|
+| **Architect** | Reference architectures built for availability, fault tolerance and cost efficiency, using event-driven and queue-based designs that scale with demand. |
+| **Develop** | Backend services, APIs and internal platforms written with deployment and operability in mind from the first commit. |
+| **Provision** | Repeatable, version-controlled environments defined entirely as code. |
+| **Deliver** | Automated build, test, scan, containerize and release pipelines with controlled promotion across environments. |
+| **Operate** | Auto-scaling, runtime management, release coordination and root-cause troubleshooting across compute, network and application layers. |
+| **Secure and Observe** | Vulnerability management, least-privilege access, metrics, logs and alerting built into every environment. |
 
+---
 
-##  Stats
-Check out my GitHub stats and coding activity:
+## Technical Stack
+
+#### Cloud &amp; Infrastructure as Code
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible&perline=10" alt="Cloud &amp; Infrastructure as Code" />
+
+<sub>AWS domains: Compute, Containers, Storage, Networking &amp; Content Delivery, Application Integration, Serverless, Security, Identity &amp; Compliance, Management &amp; Governance<br />AWS CDK (TypeScript), AWS CloudFormation, Vagrant</sub>
+
+#### Containers &amp; Orchestration
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=10" alt="Containers &amp; Orchestration" />
+
+<sub>Docker Compose, Helm, Argo CD</sub>
+
+#### CI/CD &amp; Release Engineering
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,maven,git,github&perline=10" alt="CI/CD &amp; Release Engineering" />
+
+<sub>SonarQube</sub>
+
+#### Observability &amp; Security
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=10" alt="Observability &amp; Security" />
+
+<sub>Amazon CloudWatch, Amazon Inspector, AWS Security Hub, Amazon GuardDuty, AWS IAM, OpenTelemetry</sub>
+
+#### Messaging, Streaming &amp; Data
+
+<img src="https://skillicons.dev/icons?i=kafka,redis,postgres,mongodb&perline=10" alt="Messaging, Streaming &amp; Data" />
+
+<sub>Amazon SQS</sub>
+
+#### Systems &amp; Scripting
+
+<img src="https://skillicons.dev/icons?i=linux,bash,py,nginx&perline=10" alt="Systems &amp; Scripting" />
+
+<sub>DNS &amp; TCP/IP</sub>
+
+#### Application Development
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,threejs&perline=10" alt="Application Development" />
+
+<sub>Socket.IO, REST APIs, GSAP</sub>
+
+#### Applied AI &amp; Automation
+
+LLM API Integration, ML Model Integration, Prompt Engineering, Workflow Automation
+
+---
+
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=ahmad2shadab&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=ahmad2shadab&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
-    width="49%"
-    alt="Top Languages"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub statistics" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/github/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages" width="49%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ahmad2shadab&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC"
-    width="70%"
-    alt="GitHub Streak"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ahmad2shadab&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ahmad2shadab&hide_border=true&theme=default" />
+    <img src="https://streak-stats.demolab.com/?user=ahmad2shadab&hide_border=true&theme=default" alt="Contribution streak" width="70%" />
+  </picture>
 </p>
 
-
-##  Visitor Count
-<!-- Visitor Count (Komarev with modern look) -->
-<a href="https://github.com/ahmad2shadab" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=ahmad2shadab&label=Profile+Visits&color=0e75b6&style=flat-square" alt="Visitor Count"/>
-</a>
-
----
-Feel free to reach out to me via email at ahmad8shadab@gmail.com and let's build something awesome together!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmad2shadab&label=Profile+Views&color=1F2937&style=flat-square" alt="Profile views" />
+</p>
