@@ -15,9 +15,7 @@
 
 ## Profile
 
-I design, build, deploy and operate cloud-native systems end to end. On AWS, I own the full delivery lifecycle for enterprise workloads: architecture, application development, infrastructure as code, CI/CD, containerized deployment, observability and security hardening.
-
-A full-stack engineering foundation lets me work on both sides of the handoff between development and operations, which keeps feedback loops short and systems maintainable long after release.
+AWS Cloud & DevOps Engineer specializing in infrastructure automation, CI/CD pipelines, containerized deployments, monitoring, and security, combining full-stack development skills with hands-on operations to ship and maintain reliable systems.
 
 ---
 
